@@ -1,0 +1,7 @@
+plotly
+yfinance
+pandas
+numpy
+requests
+ta
+textblob
