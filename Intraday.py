@@ -113,7 +113,7 @@ INDICES = {
 
 class IntradayTradingSystem:
     def __init__(self):
-        self.alpha_vantage_key = "demo"  # Free tier key
+        self.alpha_vantage_key = "AXW1VONAK29X9UKV"  # Free tier key
         
     def fetch_stock_data(self, symbol, period='1d', interval='5m'):
         """Fetch intraday stock data using Yahoo Finance with error handling"""
